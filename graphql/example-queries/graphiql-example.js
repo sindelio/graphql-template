@@ -43,6 +43,10 @@
 //     }
 //   }
 // }
+// Query Variables:
+// {
+//   "contentFlag": "true"
+// }
 
 /* Notes
 		- Variables and fragment only exist in the query, not in the schema!
